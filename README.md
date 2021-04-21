@@ -13,6 +13,7 @@
 
 
 ## Join the collections using the hospital_id
+_ Step by step procedure for this is in ipynb file
 ![image](https://user-images.githubusercontent.com/28698879/115515121-7875b300-a28d-11eb-83e1-357876d62fd8.png)
 
 ## Create dataframes from the collections
@@ -27,3 +28,4 @@
 ![image](https://user-images.githubusercontent.com/28698879/115513317-9b06cc80-a28b-11eb-89ca-9d7044b7d61c.png)
 ![image](https://user-images.githubusercontent.com/28698879/115515520-e326ee80-a28d-11eb-9dc9-425f18ad1b98.png)
 
+# please find all the codes and comments for the entire project on the attached ipynb file
