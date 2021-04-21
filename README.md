@@ -6,7 +6,11 @@
 
 
 ## Create the collections
-![image](https://user-images.githubusercontent.com/28698879/115512080-3dbe4b80-a28a-11eb-9a35-56ab4a075cac.png)
+- ![image](https://user-images.githubusercontent.com/28698879/115512080-3dbe4b80-a28a-11eb-9a35-56ab4a075cac.png)
+- ![image](https://user-images.githubusercontent.com/28698879/115516518-da82e800-a28e-11eb-9101-13f1a7fecc7d.png)
+- ![image](https://user-images.githubusercontent.com/28698879/115516569-ea9ac780-a28e-11eb-9492-78eae659d444.png)
+- ![image](https://user-images.githubusercontent.com/28698879/115516617-fa1a1080-a28e-11eb-9c59-a54b9104e2ed.png)
+
 
 ## Join the collections using the hospital_id
 ![image](https://user-images.githubusercontent.com/28698879/115515121-7875b300-a28d-11eb-83e1-357876d62fd8.png)
